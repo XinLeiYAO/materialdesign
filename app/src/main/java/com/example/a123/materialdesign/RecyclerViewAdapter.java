@@ -17,8 +17,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     Activity context;
 
-    AlertDialog alertDialog;
-
     public RecyclerViewAdapter(Activity context) {
         this.context = context;
     }
